@@ -3,7 +3,7 @@ Speech transcription program using deepSpeech model
 
 
 # Speech Recognition Program
-This program utilizes the deep speech model to convert speech into text. It transcribes the audio data which is in .wav format and then displays the words captured from the audio file.The project directory should contain the deepSpeech model file and the audio file.
+This program utilizes the deep speech model to convert speech into text. It transcribes the audio data which is in .wav format and then displays the words captured from the audio file.The project directory should contain the deepSpeech model file(deepspeech-0.9.3-models.pbmm) and the audio file.
 
 To run the program, follow these steps:
 
